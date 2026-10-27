@@ -1,8 +1,8 @@
 {
-  "name": "node-sqs-producer",
+  "name": "node-kafka-producer",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:juninmd/node-sqs-producer.git",
+  "repository": "git@github.com:juninmd/node-kafka-producer.git",
   "author": "Antonio Carlos <jr_acn@hotmail.com>",
   "license": "MIT",
   "dependencies": {
